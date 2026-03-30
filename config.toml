@@ -1,5 +1,5 @@
 baseURL = "https://sigrisi.ch"
-title = "sigrisi.ch"
+title = "blog.sigrisi.ch"
 theme = "gokarna"
 # paginate = 8
 pagination.pagerSize = 6
